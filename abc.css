@@ -1,0 +1,74 @@
+.main {
+    display: flex ;
+    
+}
+.x {
+    background-color: rgba(255, 0, 0, 0.733);
+    height:200px;
+    width:400px;
+}
+.a{
+    background-color: rgb(250, 152, 25);
+    height: 200px;
+    width: 400px;
+    display: flex; 
+}
+.A{
+    background-color: blueviolet;
+    height: 200px;
+    width: 133px;
+}
+.B{
+    background-color:rgb(255, 0, 170);
+    height: 200px;
+    width: 133px;
+    
+}
+
+.C{
+    background-color:rgb(231, 216, 85);
+    height: 100px;
+    width: 133px;
+    display:flex;
+}
+
+.O{
+    background-color: aquamarine;
+    height: 55px;
+    width: 66.5px;
+}
+.P{
+background-color: rgb(73, 219, 15);
+height: 55px;
+width: 66.5px;}
+
+.b{ background-color: rgb(253, 228, 0);
+    height: 200px;
+    width: 400px;
+    display:flex;
+}
+.L{background-color: rgb(24, 24, 128);
+   height: 200px;
+   width: 200px;
+}
+.U{background-color: rgb(0, 255, 34);
+    height: 100px;
+    width: 200px;;
+ }
+
+.M{
+    background-color: blueviolet;
+    height: 100px;
+    width: 100px;
+}
+.N{
+    background-color: rgb(255, 30, 0);
+    height: 100px;
+    width: 200px;
+    
+}
+.K{
+    background-color: black;
+    height: 100px;;
+    width: 100px;
+}
